@@ -1,0 +1,224 @@
+[
+  {
+    "date": "6. jūnijs, ceturtdiena",
+    "id": "1",
+    "events": [
+      {
+        "showModal": "10.00-13.00",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "the",
+        "type": "workshop",
+        "chor": "Kuiks Svī Būns & T.H.E Dance Company (Singapūra)",
+        "title": "Meistardarbnīca “Hollow Body”"
+      }
+    ]
+  },
+  {
+    "date": "7. jūnijs, piektdiena",
+    "id": "2",
+    "events": [
+      {
+        "showModal": "10.00-13.00",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "the",
+        "type": "workshop",
+        "chor": "Kuiks Svī Būns & T.H.E Dance Company (Singapūra)",
+        "title": "Meistardarbnīca “Hollow Body”"
+      }
+    ]
+  },
+  {
+    "date": "8. jūnijs, sestdiena",
+    "id": "3",
+    "events": [
+      {
+        "showModal": "10.00-11.30",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "cai_ran",
+        "type": "workshop",
+        "chor": "Cai Rans Rens Kvings (Ķīna)",
+        "title": "Laikmetīgās dejas tehnika"
+      },
+      {
+        "showModal": "12.00-13.30",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "michelle_rhv",
+        "type": "workshop",
+        "chor": "Mišele Bulē (ASV/Filipīnas)",
+        "title": "Meistarklase “Iedvesmota kustību tehnika”"
+      },
+      {
+        "showModal": "18.00",
+        "venue": "NOASS",
+        "target": "last_time",
+        "type": "performance",
+        "chor": "Cai Rans Rens Kvings (Ķīna)",
+        "tickets": "",
+        "title": "Pēdējā reize"
+      },
+      {
+        "showModal": "18.00",
+        "venue": "NOASS",
+        "target": "ideal_female",
+        "type": "performance",
+        "chor": "Eva Kronberga & Jānis Putniņš (Latvija)",
+        "tickets": "",
+        "title": "Ideal Fe[male]"
+      },
+      {
+        "showModal": "20.00",
+        "venue": "NOASS",
+        "target": "invisible",
+        "type": "performance",
+        "chor": "T.H.E. Dance Company, Kuiks Svī Būns (Singapūra)",
+        "tickets": "",
+        "title": "Neredzamie ieradumi"
+      },
+      {
+        "showModal": "21.30",
+        "venue": "AB dambis",
+        "target": "labrys",
+        "type": "performance",
+        "chor": "Krišjānis Sants (Latvija) un Ieva Gaurilčikaite (Lietuva)",
+        "tickets": "",
+        "title": "Labrys"
+      }
+    ]
+  },
+  {
+    "date": "9. jūnijs, svētdiena",
+    "id": "4",
+    "events": [
+      {
+        "showModal": "07.00",
+        "venue": "AB dambis",
+        "target": "labrys",
+        "type": "performance",
+        "chor": "Krišjānis Sants (Latvija) un Ieva Gaurilčikaite (Lietuva)",
+        "tickets": "",
+        "title": "Labrys"
+      },
+      {
+        "showModal": "10.00-11.30",
+        "venue": "NOASS",
+        "target": "tai_dzi",
+        "type": "workshop",
+        "chor": "",
+        "title": "Tai-dzi rīta klase"
+      },
+      {
+        "showModal": "12.00-13.30",
+        "venue": "NOASS",
+        "target": "michelle_noass",
+        "type": "workshop",
+        "chor": "Mišele Bulē (ASV/Filipīnas)",
+        "title": "Meistarklase “Māksla, dziedināšana, veidošana, darīšana, esamība”"
+      },
+      {
+        "showModal": "16.00",
+        "venue": "NOASS",
+        "target": "ilze",
+        "type": "workshop",
+        "chor": "vada Ilze Zīriņa (Latvija)",
+        "title": "Dejas improvizācijas džemsesija"
+      },
+      {
+        "showModal": "18.00",
+        "venue": "AB dambis",
+        "target": "labrys",
+        "type": "performance",
+        "chor": "Krišjānis Sants (Latvija) un Ieva Gaurilčikaite (Lietuva)",
+        "tickets": "",
+        "title": "Labrys"
+      },
+      {
+        "showModal": "19.00",
+        "venue": "NOASS",
+        "target": "chiname",
+        "type": "performance",
+        "chor": "Sjao Ke x Zi Hans (Ķīna)",
+        "tickets": "",
+        "title": "CHINAME"
+      },
+      {
+        "showModal": "21.00",
+        "venue": "Zirgu Pasts",
+        "target": "passport",
+        "type": "performance",
+        "chor": "Venuri Perera (Šrilanka)",
+        "tickets": "",
+        "title": "Pases iesvētīšanas ceremonija"
+      }
+    ]
+  },
+  {
+    "date": "10. jūnijs, pirmdiena",
+    "id": "5",
+    "events": [
+      {
+        "showModal": "10.00-13.00",
+        "venue": "Rīgas Horeogrāfijas skola",
+        "target": "",
+        "type": "workshop",
+        "chor": "",
+        "title": "Meistardarbnīca (informācija sekos)"
+      },
+      {
+        "showModal": "19.00",
+        "venue": "Zirgu Pasts",
+        "target": "monomyth",
+        "type": "performance",
+        "chor": "Mišele Bulē (ASV/Filipīnas)",
+        "tickets": "",
+        "title": "Monomīts"
+      }
+    ]
+  },
+  {
+    "date": "11. jūnijs, otrdiena",
+    "id": "6",
+    "events": [
+      {
+        "showModal": "19.00",
+        "venue": "NOASS",
+        "target": "gans",
+        "type": "performance",
+        "chor": "Andris Kačanovskis (Latvija)",
+        "tickets": "",
+        "title": "Vientuļais gans"
+      },
+      {
+        "showModal": "19.00",
+        "venue": "NOASS",
+        "target": "all",
+        "type": "performance",
+        "chor": "Suržits Nongmeikapams (Indija)",
+        "tickets": "",
+        "title": "all-in-1"
+      },
+      {
+        "showModal": "19.00",
+        "venue": "NOASS",
+        "target": "inta",
+        "type": "workshop",
+        "chor": "Inta Balode (Latvija)",
+        "tickets": "",
+        "title": "Laiks runāties"
+      }
+    ]
+  },
+  {
+    "date": "12.-15. jūnijs, trešdiena-sestdiena",
+    "id": "7",
+    "events": [
+      {
+        "showModal": "10.00-12.00",
+        "venue": "Latvijas Kultūras akadēmija",
+        "target": "ehool",
+        "type": "workshop",
+        "chor": "Suržits Nongmeikapams (Indija)",
+        "title": "Meistardarbnīca “Ehool” (Impulss)"
+      }
+    ]
+  }
+]

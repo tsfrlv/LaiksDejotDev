@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Pēdējā reize",
+    "target": "last_time",
+    "showModal": true
+  },
+  {
+    "title": "Ideal Fe[male]",
+    "target": "ideal_female",
+    "showModal": true
+  },
+  {
+    "title": "Neredzamie ieradumi",
+    "target": "invisible",
+    "showModal": true
+  },
+  {
+    "title": "Labrys",
+    "target": "labrys",
+    "showModal": true
+  },
+  {
+    "title": "CHINAME",
+    "target": "chiname",
+    "showModal": true
+  },
+  {
+    "title": "Pases iesvētīšanas ceremonija",
+    "target": "passport",
+    "showModal": true
+  },
+  {
+    "title": "Monomīts",
+    "target": "monomyth",
+    "showModal": true
+  },
+  {
+    "title": "Vientuļais gans",
+    "target": "gans",
+    "showModal": true
+  },
+  {
+    "title": "all-in-1",
+    "target": "all",
+    "showModal": true
+  }
+]

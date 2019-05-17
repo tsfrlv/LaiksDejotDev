@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Kuiks Svī Būns & T.H.E Dance Company (Singapūra)",
+    "target": "the",
+    "showModal": true
+  },
+  {
+    "title": "Cai Rans Rens Kvings (Ķīna)",
+    "target": "cai_ran",
+    "showModal": true
+  },
+  {
+    "title": "Suržits Nongmeikapams (Indija)",
+    "target": "ehool",
+    "showModal": true
+  },
+  {
+    "title": "Mišele Bulē (ASV/Filipīnas)",
+    "target": "michelle_rhv",
+    "showModal": true
+  },
+  {
+    "title": "Mišele Bulē (ASV/Filipīnas)",
+    "target": "michelle_noass",
+    "showModal": true
+  }
+
+]

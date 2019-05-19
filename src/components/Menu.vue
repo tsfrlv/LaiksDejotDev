@@ -3,6 +3,7 @@
         <div v-for="link in menu" :key="link.menuItem" :class="link.menuItem">
           <router-link :to="createLink(link.menuItem)" tag="div"><a>{{link.title}}</a></router-link>
         </div>
+        <a href="http://www.laiksdejotfestivals.lv/">LV</a>
     </nav>
 </template>
 
@@ -11,42 +12,8 @@
   export default {
     data() {
       return {
-        menu: [],
-        lang: 'LV',
-        changeLang: 'EN',
         active: null,
-        menuLV: [
-          {
-            title: 'Par festivālu',
-            menuItem: 'par-festivalu',
-            showModal: false
-          },
-          {
-            title: 'Programma',
-            menuItem: 'kalendars',
-            showModal: false
-          },
-          {
-            title: 'Izrādes',
-            menuItem: 'izrades',
-            showModal: false
-          },
-          {
-            title: 'Meistarklases',
-            menuItem: 'meistarklases',
-            showModal: false
-          },
-          {
-            title: 'Biļetes',
-            menuItem: 'biletes',
-            showModal: false
-          },
-          {
-            title: 'Vietas',
-            menuItem: 'vietas',
-            showModal: false
-          }],
-        menuEN: [
+        menu: [
           {
             title: 'About festival',
             menuItem: 'about',
@@ -68,7 +35,7 @@
             showModal: false
           },
           {
-            title: 'Tickets',
+            title: 'Prices and Tickets',
             menuItem: 'tickets',
             showModal: false
           },
@@ -80,25 +47,7 @@
         ]
       }
     },
-    mounted() {
-      this.menu = this.menuLV;
-    },
     methods: {
-      loadMenu(lang) {
-        switch (lang) {
-          case 'EN':
-            this.lang = 'EN';
-            this.changeLang = 'LV';
-            this.menu = this.menuEN;
-            break;
-          case 'LV':
-            this.lang = 'LV';
-            this.changeLang = 'EN';
-            this.menu = this.menuLV;
-            break;
-
-        }
-      },
       createLink(menuItem) {
         return "/"+menuItem;
       },
@@ -118,6 +67,7 @@
 
   a:hover{
     text-decoration:none;
+    background-color:#e35885;
   }
 
   nav,

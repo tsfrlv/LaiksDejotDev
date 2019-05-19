@@ -34,7 +34,7 @@
     },
     methods: {
       loadFromGrid(target) {
-        const url = 'http://www.laiksdejotfestivals.lv/2019/data/';
+        const url = 'http://www.laiksdejotfestivals.lv/2019/en/';
         fetch(url + target + '.json', {mode: 'cors'}).then((r) => {
           r.json().then((result) => {
             this.data = result;

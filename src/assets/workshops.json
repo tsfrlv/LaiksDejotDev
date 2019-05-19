@@ -1,26 +1,26 @@
 [
   {
-    "title": "Kuiks Svī Būns & T.H.E Dance Company (Singapūra)",
+    "title": "Kuik Swee Boon & T.H.E Dance Company (Singapore)",
     "target": "the",
     "showModal": true
   },
   {
-    "title": "Cai Rans Rens Kvings (Ķīna)",
+    "title": "Cai Rang Ren Qing (China)",
     "target": "cai_ran",
     "showModal": true
   },
   {
-    "title": "Suržits Nongmeikapams (Indija)",
+    "title": "Surjit Nongmeikapam (India)",
     "target": "ehool",
     "showModal": true
   },
   {
-    "title": "Mišele Bulē (ASV/Filipīnas)",
+    "title": "Michelle Boulé (USA/Philippines)",
     "target": "michelle_rhv",
     "showModal": true
   },
   {
-    "title": "Mišele Bulē (ASV/Filipīnas)",
+    "title": "Michelle Boulé (USA/Philippines)",
     "target": "michelle_noass",
     "showModal": true
   }

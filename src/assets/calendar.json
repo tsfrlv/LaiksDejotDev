@@ -1,223 +1,223 @@
 [
   {
-    "date": "6. jūnijs, ceturtdiena",
+    "date": "June 6, Thursday",
     "id": "1",
     "events": [
       {
-        "showModal": "10.00-13.00",
-        "venue": "Rīgas Horeogrāfijas skola",
+        "time": "10.00-13.00",
+        "venue": "Riga Choreography School",
         "target": "the",
         "type": "workshop",
-        "chor": "Kuiks Svī Būns & T.H.E Dance Company (Singapūra)",
-        "title": "Meistardarbnīca “Hollow Body”"
+        "chor": "Kuik Swee Boon & T.H.E Dance Company (Singapore)",
+        "title": "Workshop “Hollow Body”"
       }
     ]
   },
   {
-    "date": "7. jūnijs, piektdiena",
+    "date": "June 7, Friday",
     "id": "2",
     "events": [
       {
-        "showModal": "10.00-13.00",
-        "venue": "Rīgas Horeogrāfijas skola",
+        "time": "10.00-13.00",
+        "venue": "Riga Choreography School",
         "target": "the",
         "type": "workshop",
-        "chor": "Kuiks Svī Būns & T.H.E Dance Company (Singapūra)",
-        "title": "Meistardarbnīca “Hollow Body”"
+        "chor": "Kuik Swee Boon & T.H.E Dance Company (Singapore)",
+        "title": "Workshop “Hollow Body”"
       }
     ]
   },
   {
-    "date": "8. jūnijs, sestdiena",
+    "date": "June 8, Saturday",
     "id": "3",
     "events": [
       {
-        "showModal": "10.00-11.30",
-        "venue": "Rīgas Horeogrāfijas skola",
+        "time": "10.00-11.30",
+        "venue": "Riga Choreography School",
         "target": "cai_ran",
         "type": "workshop",
-        "chor": "Cai Rans Rens Kvings (Ķīna)",
-        "title": "Laikmetīgās dejas tehnika"
+        "chor": "Cai Rang Ren Qing (China)",
+        "title": "Contemporary Dance Technique"
       },
       {
-        "showModal": "12.00-13.30",
-        "venue": "Rīgas Horeogrāfijas skola",
+        "time": "12.00-13.30",
+        "venue": "Riga Choreography School",
         "target": "michelle_rhv",
         "type": "workshop",
-        "chor": "Mišele Bulē (ASV/Filipīnas)",
-        "title": "Meistarklase “Iedvesmota kustību tehnika”"
+        "chor": "Michelle Boulé (USA/Philippines)",
+        "title": "Inspired Movement Technique"
       },
       {
-        "showModal": "18.00",
+        "time": "18.00",
         "venue": "NOASS",
         "target": "last_time",
         "type": "performance",
-        "chor": "Cai Rans Rens Kvings (Ķīna)",
+        "chor": "Cai Rang Ren Qing (China)",
         "tickets": "",
-        "title": "Pēdējā reize"
+        "title": "Last Time"
       },
       {
-        "showModal": "18.00",
+        "time": "18.00",
         "venue": "NOASS",
         "target": "ideal_female",
         "type": "performance",
-        "chor": "Eva Kronberga & Jānis Putniņš (Latvija)",
+        "chor": "Eva Kronberga & Jānis Putniņš (Latvia)",
         "tickets": "",
         "title": "Ideal Fe[male]"
       },
       {
-        "showModal": "20.00",
+        "time": "20.00",
         "venue": "NOASS",
         "target": "invisible",
         "type": "performance",
-        "chor": "T.H.E. Dance Company, Kuiks Svī Būns (Singapūra)",
+        "chor": "T.H.E. Dance Company, Kuik Swee Boon (Singapore)",
         "tickets": "",
-        "title": "Neredzamie ieradumi"
+        "title": "Invisible Habitudes"
       },
       {
-        "showModal": "21.30",
+        "time": "21.30",
         "venue": "AB dambis",
         "target": "labrys",
         "type": "performance",
-        "chor": "Krišjānis Sants (Latvija) un Ieva Gaurilčikaite (Lietuva)",
+        "chor": "Ieva Gaurilčikaitė (Lithuania), Krišjānis Sants (Latvia)",
         "tickets": "",
         "title": "Labrys"
       }
     ]
   },
   {
-    "date": "9. jūnijs, svētdiena",
+    "date": "June 9, Sunday",
     "id": "4",
     "events": [
       {
-        "showModal": "07.00",
+        "time": "07.00",
         "venue": "AB dambis",
         "target": "labrys",
         "type": "performance",
-        "chor": "Krišjānis Sants (Latvija) un Ieva Gaurilčikaite (Lietuva)",
+        "chor": "Ieva Gaurilčikaitė (Lithuania), Krišjānis Sants (Latvia)",
         "tickets": "",
         "title": "Labrys"
       },
       {
-        "showModal": "10.00-11.30",
+        "time": "10.00-11.30",
         "venue": "NOASS",
         "target": "tai_dzi",
         "type": "workshop",
         "chor": "",
-        "title": "Tai-dzi rīta klase"
+        "title": "Tai ji quan morning class"
       },
       {
-        "showModal": "12.00-13.30",
+        "time": "12.00-13.30",
         "venue": "NOASS",
         "target": "michelle_noass",
         "type": "workshop",
-        "chor": "Mišele Bulē (ASV/Filipīnas)",
-        "title": "Meistarklase “Māksla, dziedināšana, veidošana, darīšana, esamība”"
+        "chor": "Michelle Boulé (USA/Philippines)",
+        "title": "Art Healing Making Doing Being"
       },
       {
-        "showModal": "16.00",
+        "time": "16.00",
         "venue": "NOASS",
         "target": "ilze",
         "type": "workshop",
-        "chor": "vada Ilze Zīriņa (Latvija)",
-        "title": "Dejas improvizācijas džemsesija"
+        "chor": "led by Ilze Zīriņa (Latvia)",
+        "title": "Improvisation Jam session"
       },
       {
-        "showModal": "18.00",
+        "time": "18.00",
         "venue": "AB dambis",
         "target": "labrys",
         "type": "performance",
-        "chor": "Krišjānis Sants (Latvija) un Ieva Gaurilčikaite (Lietuva)",
+        "chor": "Ieva Gaurilčikaitė (Lithuania), Krišjānis Sants (Latvia)",
         "tickets": "",
         "title": "Labrys"
       },
       {
-        "showModal": "19.00",
+        "time": "19.00",
         "venue": "NOASS",
         "target": "chiname",
         "type": "performance",
-        "chor": "Sjao Ke x Zi Hans (Ķīna)",
+        "chor": "Xiao Ke x Zi Han (China)",
         "tickets": "",
         "title": "CHINAME"
       },
       {
-        "showModal": "21.00",
+        "time": "21.00",
         "venue": "Zirgu Pasts",
         "target": "passport",
         "type": "performance",
-        "chor": "Venuri Perera (Šrilanka)",
+        "chor": "Venuri Perera (Sri Lanka)",
         "tickets": "",
-        "title": "Pases iesvētīšanas ceremonija"
+        "title": "Passport Blessing Ceremony"
       }
     ]
   },
   {
-    "date": "10. jūnijs, pirmdiena",
+    "date": "June 10, Monday",
     "id": "5",
     "events": [
       {
-        "showModal": "10.00-13.00",
-        "venue": "Rīgas Horeogrāfijas skola",
+        "time": "10.00-13.00",
+        "venue": "Riga Choreography School",
         "target": "",
         "type": "workshop",
         "chor": "",
-        "title": "Meistardarbnīca (informācija sekos)"
+        "title": "Workshop"
       },
       {
-        "showModal": "19.00",
+        "time": "19.00",
         "venue": "Zirgu Pasts",
         "target": "monomyth",
         "type": "performance",
-        "chor": "Mišele Bulē (ASV/Filipīnas)",
+        "chor": "Michelle Boulé (USA/Philippines)",
         "tickets": "",
-        "title": "Monomīts"
+        "title": "The Monomyth"
       }
     ]
   },
   {
-    "date": "11. jūnijs, otrdiena",
+    "date": "June 11, Tuesday",
     "id": "6",
     "events": [
       {
-        "showModal": "19.00",
+        "time": "19.00",
         "venue": "NOASS",
         "target": "gans",
         "type": "performance",
-        "chor": "Andris Kačanovskis (Latvija)",
+        "chor": "Andris Kačanovskis (Latvia)",
         "tickets": "",
-        "title": "Vientuļais gans"
+        "title": "The Lonely Shepherd"
       },
       {
-        "showModal": "19.00",
+        "time": "19.00",
         "venue": "NOASS",
         "target": "all",
         "type": "performance",
-        "chor": "Suržits Nongmeikapams (Indija)",
+        "chor": "Surjit Nongmeikapam (India)",
         "tickets": "",
         "title": "all-in-1"
       },
       {
-        "showModal": "19.00",
+        "time": "19.00",
         "venue": "NOASS",
         "target": "inta",
         "type": "workshop",
-        "chor": "Inta Balode (Latvija)",
+        "chor": "Inta Balode (Latvia)",
         "tickets": "",
-        "title": "Laiks runāties"
+        "title": "Time to talk"
       }
     ]
   },
   {
-    "date": "12.-15. jūnijs, trešdiena-sestdiena",
+    "date": "June 12-15, Wednesday-Saturday",
     "id": "7",
     "events": [
       {
-        "showModal": "10.00-12.00",
-        "venue": "Latvijas Kultūras akadēmija",
+        "time": "10.00-12.00",
+        "venue": "Latvian Academy of Culture",
         "target": "ehool",
         "type": "workshop",
-        "chor": "Suržits Nongmeikapams (Indija)",
-        "title": "Meistardarbnīca “Ehool” (Impulss)"
+        "chor": "Surjit Nongmeikapam (India)",
+        "title": "Workshop “Ehool” (Impulse)"
       }
     ]
   }

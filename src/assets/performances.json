@@ -1,6 +1,6 @@
 [
   {
-    "title": "Pēdējā reize",
+    "title": "Last Time",
     "target": "last_time",
     "showModal": true
   },
@@ -10,7 +10,7 @@
     "showModal": true
   },
   {
-    "title": "Neredzamie ieradumi",
+    "title": "Invisible Habitudes",
     "target": "invisible",
     "showModal": true
   },
@@ -25,17 +25,17 @@
     "showModal": true
   },
   {
-    "title": "Pases iesvētīšanas ceremonija",
+    "title": "Passport Blessing Ceremony",
     "target": "passport",
     "showModal": true
   },
   {
-    "title": "Monomīts",
+    "title": "The Monomyth",
     "target": "monomyth",
     "showModal": true
   },
   {
-    "title": "Vientuļais gans",
+    "title": "The Lonely Shepherd",
     "target": "gans",
     "showModal": true
   },

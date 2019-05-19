@@ -3,7 +3,6 @@ import Router from 'vue-router'
 import Meistarklases from "@/components/Meistarklases";
 import Izrades from "@/components/Izrades";
 import Kalendars from "@/components/Kalendars";
-import Modal from "@/components/Modal";
 import Par from "@/components/Par";
 import Biletes from "@/components/Biletes";
 import Vietas from "@/components/Vietas";
@@ -13,27 +12,27 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/meistarklases',
+      path: '/workshops',
       component: Meistarklases
     },
     {
-      path: '/izrades',
+      path: '/performances',
       component: Izrades
     },
     {
-      path: '/kalendars',
+      path: '/calendar',
       component: Kalendars
     },
     {
-      path: '/par-festivalu',
+      path: '/about',
       component: Par
     },
     {
-      path: '/biletes',
+      path: '/tickets',
       component: Biletes
     },
     {
-      path: '/vietas',
+      path: '/venues',
       component: Vietas
     }
 

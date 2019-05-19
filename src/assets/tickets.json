@@ -1,91 +1,85 @@
 {
-  "subTitle1": "Izrādes",
+  "subTitle1": "PERFORMANCES",
   "link": "https://www.bilesuparadize.lv/lv/organizers/organizer/802",
   "email": "mailto:laiksdejotinfo@gmail.com",
   "body1": [
     {
-      "p": "Biļešu cenas: 7 un 10 EUR – pilnā cena; 5 un 7 EUR – ar atlaidi"
+      "p": "Full price 7 and 10 EUR; discounted price 5 and 7 EUR."
     },
     {
-      "p": "Biļetes Biļešu paradīzes kasēs, www.bilesuparadize.lv un uz vietas pirms izrādēm."
+      "p": "Tickets available at Bilešu paradīze box offices, on www.bilesuparadize.lv and before the performances."
     },
     {
-      "p": "Atlaides paredzētas HA biedriem, studentiem, pensionāriem, cilvēkiem ar invaliditāti."
+      "p": "Discounted price available for students, pensioners, persons with disability, members of the Choreographers Association."
     },
     {
       "p": "____________________________________________________________________________________"
     },
     {
-      "p": "Festivāla karte visai programmai 120 EUR (izrādes, meistarklases, darbnīcas) Ar atlaidi: dejas studentiem 85 EUR, HA biedriem 60 EUR"
+      "p": "Festival card 120 EUR (performances, classes, workshops) Discounted price: dance students 85 EUR, members of the Choreographers Association 60 EUR"
     },
     {
-      "p": "Festivāla karte visu izrāžu apmeklējumam 60 EUR. Ar atlaidi: studentiem, pensionāriem, cilvēkiem ar invaliditāti 40 EUR, HA biedriem 30 EUR."
-    },
-    {
-      "p": "Festivāla karte visu klašu un darbnīcu apmeklējumam – 70 EUR. Ar atlaidi: dejas studentiem 50 EUR, HA biedriem 35 EUR."
+      "p": "Festival card to all performances 60 EUR. Discounted price: students, pensioners, persons with disability 40 EUR, members of the Choreographers Association 30 EUR."
     }
   ],
-  "subTitle2": "Izglītības programma",
+  "subTitle2": "EDUCATION PROGRAM",
   "body2": [
     {
-      "p": "Dalības maksa 1 meistarklasē (1,5 h-2h) 7 EUR; 5 EUR – ar atlaidi."
+      "p": "Fee for 1 masterclass (1,5 h-2 h) 7 EUR; 5 EUR - discounted price"
     },
     {
-      "p": "Dalības maksa 1 darbnīcā (3 h) 10 EUR; 7 EUR – ar atlaidi."
+      "p": "Fee for 1 workshop (3 h) 10 EUR; 7 EUR – discounted price"
     },
     {
-      "p": "Karte visu klašu un darbnīcu apmeklējumam - 30 EUR"
-    },
-    {
-      "p": "____________________________________________________________________________________"
-    },
-    {
-      "p": "1,5 h meistarklases:"
-    },
-    {
-      "p": "- Rens Kvings Cai Rans (Ķīna) Laikmetīgās dejas tehnika 8. jūnijā 10.00-11.30 (RHS)"
-    },
-    {
-      "p": "- Mišele Bulē (ASV/ Filipīnas) Meistarklase „Iedvesmota kustību tehnika” 8. jūnijā 12.00-13.30 (RHS)"
-    },
-    {
-      "p": "- Mišele Bulē (ASV/Filipīnas) Meistarklase „Māksla, dziedināšana, veidošana, darīšana, esamība” 9. jūnijā 12.00-13.30 (NOASS)"
-    },
-    {
-      "p": "- Suržits Nongmeikapams (Indija) Meistardarbnīca “Ehool” (Impulss) 12., 13.,14.,15. jūnijā 10.00-12.00 (LKA)"
+      "p": "Festival card to all classes and workshops – 70 EUR. Discounted price: dance students 50 EUR, members of the Choreographers Association 35 EUR."
     },
     {
       "p": "____________________________________________________________________________________"
     },
     {
-      "p": "3 h meistardarbnīcas:"
+      "p": "1,5 h classes:"
     },
     {
-      "p": "- Kuiks Svī Būns & T.H.E Dance Company Meistardarbnīca “Hollow Body” 6. jūnijā 10.00-13.00 (RHS)"
+      "p": "- Cai Rang Ren Qing (China) Contemporary Dance Technique June 8 10.00-11.30 (Riga Choreography School)"
     },
     {
-      "p": "- Kuiks Svī Būns & T.H.E Dance Company Meistardarbnīca “Hollow Body” 7. jūnijā 10.00-13.00 (RHS)"
+      "p": "- Michelle Boulé (USA/Philippines) class „Inspired Movement Technique” June 8 12.00-13.30 (Riga Choreography School)"
     },
     {
-      "p": "- Meistardarbnīca 10. jūnijā 10.00-13.00 (RHS) – informācija seko"
+      "p": "- Michelle Boulé (USA/Philippines) class „Art Healing Making Doing Being” June 9 12.00-13.30 (NOASS)"
     },
     {
-      "p": "____________________________________________________________________________________"
-    },
-    {
-      "p": "Bezmaksas klases"
-    },
-    {
-      "p": "- Tai-dzi rīta klase 9. jūnijā 10.00-11.30 (NOASS)"
-    },
-    {
-      "p": "- Improvizācijas Džems. Iesilda Ilze Zīriņa (Latvija) 9. jūnijā 16.00 (NOASS)"
+      "p": "- Surjit Nongmeikapam (India) Workshop “Ehool” (Impulse) June 12, 13, 14, 15 10.00-12.00 (Latvian Academy of Culture)"
     },
     {
       "p": "____________________________________________________________________________________"
     },
     {
-      "p": "Pieteikšanās klasēm, festivāla karšu rezervēšana: laiksdejotinfo@gmail.com"
+      "p": "3 h workshops:"
+    },
+    {
+      "p": "- Kuik Swee Boon & T.H.E Dance Company (Singapore), workshop “Hollow Body” June 6 and June 7 10.00-13.00 (Riga Choreography School)"
+    },
+    {
+      "p": "- Workshop June 10 10.00-13.00 (Riga Choreography School) – to be announced"
+    },
+    {
+      "p": "____________________________________________________________________________________"
+    },
+    {
+      "p": "Free classes"
+    },
+    {
+      "p": "- Tai ji quan morning class June 9 10.00-11.30 (NOASS)"
+    },
+    {
+      "p": "- Improvisation Jam session led by Ilze Zīriņa (Latvia) June 9 16.00 (NOASS)"
+    },
+    {
+      "p": "____________________________________________________________________________________"
+    },
+    {
+      "p": "Registration and information: laiksdejotinfo@gmail.com"
     }
   ]
 }

@@ -13,11 +13,11 @@
         </div>
         <div class="modalBody">
           <div class="party">
-            <br> Rīko:
-            <br> <img src="/static/img/Party-new-logo.png"/>
+            <br> Organizer:
+            <br><a href="http://www.party.org.lv/#/"><img src="/static/img/Party-new-logo.png"></a>
           </div>
           <div class="supporters">
-            <br> Atbalstītāji:
+            <br> Supporters:
             <br> <img src="/static/img/dome_logo.jpg"/>
             <img src="/static/img/kkf.jpg"/><img src="/static/img/noass.gif"/>
             <img src="/static/img/LKA_logo_LV-02.png"/><img src="/static/img/Dance.lv.-zuranals.logo.gif"/>

@@ -1,33 +1,35 @@
 [
   {
     "title": "Kuiks Svī Būns & T.H.E Dance Company (Singapūra)",
-    "target": "the",
-    "showModal": true
+    "target": "the"
   },
   {
     "title": "Cai Rans Rens Kvings (Ķīna)",
-    "target": "cai_ran",
-    "showModal": true
+    "target": "cai_ran"
   },
   {
     "title": "Suržits Nongmeikapams (Indija)",
-    "target": "ehool",
-    "showModal": true
+    "target": "ehool"
   },
   {
     "title": "Mišele Bulē (ASV/Filipīnas)",
-    "target": "michelle_rhv",
-    "showModal": true
+    "target": "michelle_rhv"
   },
   {
     "title": "Venuri Perera (Šrilanka)",
-    "target": "venuri",
-    "showModal": true
+    "target": "venuri"
   },
   {
     "title": "Mišele Bulē (ASV/Filipīnas)",
-    "target": "michelle_noass",
-    "showModal": true
+    "target": "michelle_noass"
+  },
+  {
+    "target": "ilze",
+    "title": "Ilze Zīriņa (Latvija)"
+  },
+  {
+    "target": "tai_dzi",
+    "title": "Konstantīns Čečirko (Latvija)"
   }
 
 ]

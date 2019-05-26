@@ -103,8 +103,8 @@
         "venue": "NOASS",
         "target": "tai_dzi",
         "type": "workshop",
-        "chor": "",
-        "title": "Tai ji quan morning class"
+        "chor": "Konstantin Chechirko (Latvia)",
+        "title": "Tai ji quan (basic level) and qigong morning class"
       },
       {
         "time": "12.00-13.30",
@@ -148,6 +148,15 @@
         "chor": "Venuri Perera (Sri Lanka)",
         "tickets": "",
         "title": "Passport Blessing Ceremony"
+      },
+      {
+        "time": "21.00",
+        "venue": "Zirgu Pasts",
+        "target": "inta",
+        "type": "workshop",
+        "chor": "Inta Balode (Latvia)",
+        "tickets": "",
+        "title": "Time to talk"
       }
     ]
   },
@@ -195,15 +204,6 @@
         "chor": "Surjit Nongmeikapam (India)",
         "tickets": "",
         "title": "all-in-1"
-      },
-      {
-        "time": "19.00",
-        "venue": "NOASS",
-        "target": "inta",
-        "type": "workshop",
-        "chor": "Inta Balode (Latvia)",
-        "tickets": "",
-        "title": "Time to talk"
       }
     ]
   },

@@ -4,11 +4,26 @@
       <div class="home">
         <div class="c-header" v-for="p in title"><h3>{{p.p}}</h3>
         </div>
+        <div class="gallery">
+          <Gallery v-if="showImages" :images="images"/>
+        </div>
         <div v-if="body" class="modal-body modalBody">
           <div v-for="p in body">{{p.p}}
           </div>
         </div>
-        <Gallery v-if="showImages" :images="images"/>
+        <div class="modalBody">
+          <div class="party">
+            <br> Rīko:
+            <br><a href="http://www.party.org.lv/#/"><img src="/static/img/Party-new-logo.png"></a>
+          </div>
+          <div class="supporters">
+            <br> Atbalsta:
+            <br> <img src="/static/img/dome_logo.jpg"/>
+            <img src="/static/img/kkf.jpg"/><img src="/static/img/noass.gif"/>
+            <img src="/static/img/LKA_logo_LV-02.png"/><img src="/static/img/Dance.lv.-zuranals.logo.gif"/>
+            <img src="/static/img/10458610_669110989863343_4282501409387186033_n.png"/>
+          </div>
+        </div>
       </div>
     </div>
   </main>
@@ -33,6 +48,20 @@
 </script>
 
 <style scoped>
+  .gallery {
+    display: inline-block;
+  }
+  .party img {
+    width: 300px;
+    height: auto;
+  }
+
+  .supporters img {
+    width: auto;
+    height: 100px;
+    padding: 10px;
+  }
+
   .c-container {
     width: 70%;
     height: 80%;
@@ -51,7 +80,7 @@
   .c-header h3 {
     color: #369aa2;
     text-align: center;
-    font-family: Arial,Helvetica,sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     text-transform: uppercase;
     padding-bottom: 2%;

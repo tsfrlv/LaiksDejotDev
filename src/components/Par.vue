@@ -14,14 +14,16 @@
         <div class="modalBody">
           <div class="party">
             <br> Organizer:
-            <br><a href="http://www.party.org.lv/#/"><img src="/static/img/Party-new-logo.png"></a>
+            <br><a href="http://www.party.org.lv/#/"><img src="static/img/Party-new-logo.png"></a>
           </div>
           <div class="supporters">
             <br> Supporters:
-            <br> <img src="/static/img/dome_logo.jpg"/>
-            <img src="/static/img/kkf.jpg"/><img src="/static/img/noass.gif"/>
-            <img src="/static/img/LKA_logo_LV-02.png"/><img src="/static/img/Dance.lv.-zuranals.logo.gif"/>
-            <img src="/static/img/10458610_669110989863343_4282501409387186033_n.png"/>
+            <br> <img src="static/img/dome_logo.jpg"/>
+            <img src="static/img/kkf.jpg"/><img src="static/img/noass.gif"/>
+            <img src="static/img/LKA_logo_LV-02.png"/><img src="static/img/Dance.lv.-zuranals.logo.gif"/>
+            <img src="static/img/10458610_669110989863343_4282501409387186033_n.png"/>
+            <img src="static/img/ASEF-Mobility%20First%20logo.png"/>
+            <img src="/static/img/logo_garsh_web.png"/>
           </div>
         </div>
       </div>

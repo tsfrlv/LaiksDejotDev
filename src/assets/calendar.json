@@ -148,6 +148,15 @@
         "chor": "Venuri Perera (Šrilanka)",
         "tickets": "",
         "title": "Pases iesvētīšanas ceremonija"
+      },
+      {
+        "time": "19.00",
+        "venue": "NOASS",
+        "target": "inta",
+        "type": "workshop",
+        "chor": "Inta Balode (Latvija)",
+        "tickets": "",
+        "title": "Laiks runāties jeb Esi gatavs dejas pieredzei"
       }
     ]
   },
@@ -195,15 +204,6 @@
         "chor": "Suržits Nongmeikapams (Indija)",
         "tickets": "",
         "title": "all-in-1"
-      },
-      {
-        "time": "19.00",
-        "venue": "NOASS",
-        "target": "inta",
-        "type": "workshop",
-        "chor": "Inta Balode (Latvija)",
-        "tickets": "",
-        "title": "Laiks runāties"
       }
     ]
   },
